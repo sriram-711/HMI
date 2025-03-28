@@ -1,4 +1,3 @@
-# HMI
 # Instrument Cluster HMI Design
 
 This project involves the design of a **Cluster HMI (Human-Machine Interface)** for a vehicle’s instrument cluster. The system displays real-time alerts such as detected obstacles, lane departures, and vehicle status on the display using the **IMXRT board** and **Jetson Nano**. 
@@ -7,7 +6,6 @@ This project involves the design of a **Cluster HMI (Human-Machine Interface)** 
 - Designed and implemented a **Cluster HMI** in a **GUI-based environment**, displaying crucial alerts on the vehicle’s instrument cluster.
 - Developed **user interfaces** for **critical alerts** such as:
   - Detected obstacles
-  - Lane departures
   - Vehicle status (e.g., fuel level, engine temperature)
 - Utilized the **IMXRT board** to drive the display, enabling **real-time rendering** of alerts and vehicle status on the instrument cluster.
 - Worked with the **MCUXpresso IDE** to modify and update the **firmware** code for the IMXRT board, ensuring smooth integration of display functions and real-time data processing.
