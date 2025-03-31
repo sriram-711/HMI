@@ -12,6 +12,8 @@ This project involves the design of a **Cluster HMI (Human-Machine Interface)** 
 - Implemented **UART communication** between **Jetson Nano** and the IMXRT board to transfer real-time data to the cluster display.
 
 ## System Design Overview
+![cluster](https://github.com/user-attachments/assets/750702b0-6a1d-4050-bc04-aed77c5134df)
+
 
 ### Hardware Components:
 - **IMXRT Board**: Used to drive the display and process real-time data.
