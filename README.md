@@ -61,6 +61,8 @@ Test the system for:
 ## Step-6: (Final Testing and Deployment)
 1. Deploy the system into the vehicle’s instrument cluster.
 2. Verify the **real-time rendering** of all alerts in different driving conditions.
+![cluster1](https://github.com/user-attachments/assets/a54ac12a-10e8-4212-987a-808ee54f61fc)
+
 
 ## Conclusion
 This project integrates the **Jetson Nano** and **IMXRT board** to provide a real-time, responsive **Cluster HMI** that displays important vehicle alerts such as obstacles, lane departures, and vehicle status.
