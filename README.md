@@ -13,6 +13,8 @@ This project involves the design of a **Cluster HMI (Human-Machine Interface)** 
 
 ## System Design Overview
 ![cluster](https://github.com/user-attachments/assets/750702b0-6a1d-4050-bc04-aed77c5134df)
+![cluster](https://github.com/user-attachments/assets/889b28cd-a86a-4127-949d-21f54e2ce173)
+
 
 
 ### Hardware Components:
@@ -23,6 +25,12 @@ This project involves the design of a **Cluster HMI (Human-Machine Interface)** 
 ### Software Tools:
 - **MCUXpresso IDE**: Development environment for the IMXRT board firmware.
 - **UART Protocol**: Used for communication between Jetson Nano and IMXRT board.
+
+![cluster1](https://github.com/user-attachments/assets/ea28541e-0d7a-48ad-aa0e-835eb2648d28)
+
+
+![code](https://github.com/user-attachments/assets/270df568-79ec-40ff-962e-070d93f657e5)
+
 
 ## Step-1: (Set up Development Environment)
 1. Install **MCUXpresso IDE** for **IMXRT board** firmware development.
